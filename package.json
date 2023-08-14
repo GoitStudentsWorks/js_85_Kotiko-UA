@@ -3,9 +3,10 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://GoitStudentsWorks.github.io/js_85_Kotiko-UA",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/team-13-we-can-do-it-JS/",
+    "build": "vite build --base=/js_85_Kotiko-UA/",
     "preview": "vite preview"
   },
   "devDependencies": {
